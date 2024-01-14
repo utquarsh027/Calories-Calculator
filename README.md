@@ -18,6 +18,7 @@ This Calories Calculator App is a web application built with Streamlit and power
 
    ```bash
    git clone https://github.com/utquarsh027/Calories-Calculator.git
+   ```
 2. To run the app:
    
    1.Install the dependencies:
