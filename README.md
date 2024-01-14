@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Calories Calculator App is a web application built with Streamlit and powered by the Gemini Pro Large Language Model (LLM). It allows users to upload images of their meals and receive estimates for both calories content.
+This Calories Calculator App is a web application built with Streamlit and powered by the Gemini Pro Large Language Model (LLM). It allows users to upload images of their meals and receive estimates for calories content.
 
 ## Features
 
