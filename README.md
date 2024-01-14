@@ -17,8 +17,8 @@ This Calories Calculator App is a web application built with Streamlit and power
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calories-calculator-app.git
-   cd calories-calculator-app
+   [git clone https://github.com/your-username/calories-calculator-app.git
+   cd calories-calculator-app](https://github.com/utquarsh027/Calories-Calculator.git)
 2. To run the app:
    Install the dependencies:
     pip install -r requirements.txt
