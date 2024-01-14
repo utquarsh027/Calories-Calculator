@@ -1,6 +1,5 @@
 # Calories Calculator App
 
-![App Screenshot](path/to/screenshot.png)
 
 ## Overview
 
@@ -29,4 +28,6 @@ This Calories Calculator App is a web application built with Streamlit and power
       ```bash
       streamlit run app3.py
 
+## Link for Deployed app
+ https://calories-calculator-fafcjaxk8ahpcxxpbblzw5.streamlit.app/
    
