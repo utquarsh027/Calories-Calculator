@@ -19,8 +19,7 @@ if uploaded_file is not None:
 
     st.image(image, caption='Uploaded Image', use_column_width=True)
     bytes_data = uploaded_file.getvalue()
-    prompt="""
-""" Yoy are a nutritionist and given an uploaded image of a meal, calculate the calories for each individual food item present 
+    prompt=""" You are a nutritionist and given an uploaded image of a meal, calculate the calories for each individual food item present 
              and provide the results in separate lines. Additionally, include a line for the total calorie count 
              of the entire meal. Please specify any key factors affecting the calculation, such as portion size 
              or specific ingredients visible in the image. Ensure the calorie estimates are as accurate as 
