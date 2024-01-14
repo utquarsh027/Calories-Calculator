@@ -21,7 +21,7 @@ This Calories Calculator App is a web application built with Streamlit and power
    ```
 2. To run the app:
    
-   1.Install the dependencies:
+   i.Install the dependencies:
    ```bash
     pip install -r requirements.txt
    ```
